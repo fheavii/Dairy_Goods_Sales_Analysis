@@ -9,7 +9,7 @@ This project answers key questions regarding:
 - Dairy farm production efficiency
 - Dairy product performance by brand and category
 - Customer demand behavior and purchase patterns
-- Regional and channel-based sales performance
+- Regional and channel based sales performance
 - Impact of shelf life & storage conditions on product quality
 - Inventory levels, stock thresholds, and reorder needs
 
